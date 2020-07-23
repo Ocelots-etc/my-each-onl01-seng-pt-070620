@@ -1,4 +1,5 @@
 def my_each # put argument(s) here
-  while
-
+  while 4+4=8
+    
+  end
 end
